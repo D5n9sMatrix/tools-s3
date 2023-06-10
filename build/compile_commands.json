@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/setall.tools/tools-s3/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/tools-s3.dir/tools-s3.cpp.o -c /home/denis/setall.tools/tools-s3/tools-s3.cpp",
+  "file": "/home/denis/setall.tools/tools-s3/tools-s3.cpp"
+}
+]

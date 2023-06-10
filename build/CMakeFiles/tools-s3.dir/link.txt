@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtools-s3.a CMakeFiles/tools-s3.dir/tools-s3.cpp.o
+/usr/bin/ranlib libtools-s3.a
